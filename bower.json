@@ -1,0 +1,20 @@
+{
+  "name": "gulp_start",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksey <aleksey.selyavkin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "OwlCarousel2": "*"
+  }
+}
